@@ -1,5 +1,5 @@
 # Diwali Sales Analysis Using Python
-**Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one of the core components of data science.<br>It is also the part on the majority of the time which makes it extremely important in the field of data science.This repository<br> demonstrates Exploratory Data Analysis methods and techniques using Python.The purpose of the used Diwali<br> Sales dataset has been taken from Kaggle since it is one of the ideal dataset for performing EDA<br> and taking a step towards the most amazing and interesting field of data science. Good luck with your EDA on the used Diwali Sales dataset.**
+**Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one of the core components of data science.<br>It is also the part on the majority of the time which makes it extremely important in the field of data science.This repository<br> demonstrates Exploratory Data Analysis methods and techniques using Python.The purpose of the used Diwali Sales dataset<br> has been taken from Kaggle since it is one of the ideal dataset for performing EDA and taking a step towards the most amazing and interesting field of data science. Good luck with your EDA on the used Diwali Sales dataset.**
 
 # Project Description :-
 - Performed Data Cleaning and Data Manipulation.
